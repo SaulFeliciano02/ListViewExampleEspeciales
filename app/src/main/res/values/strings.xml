@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ListViewExampleEspeciales</string>
+    <string name="Mensaje_lbl">Usted ha elegido este animal:</string>
+</resources>
